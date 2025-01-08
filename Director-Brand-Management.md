@@ -1,4 +1,4 @@
-# **Director of Brand and Content Management**
+# **Principal Brand and Content Manager**
 
 **Location:** Los Angeles, CA, New York, NY, Dallas, TX, Detroit, MI, Washington, DC, or Remote
 
