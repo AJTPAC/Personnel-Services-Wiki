@@ -1,4 +1,4 @@
-# **Job Title**: Community Moderator
+# **Job Title**: Community Liason
 
 **Location**: Los Angeles, CA, New York, NY, Dallas, TX, Detroit, MI, Washington, DC, or Remote
 
