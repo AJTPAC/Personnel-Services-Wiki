@@ -1,4 +1,4 @@
-# **Job Title**: Director of Partnership Programs
+# **Job Title**: Director of Partner Programs
 
 **Location**: Los Angeles, CA, New York, NY, Dallas, TX, Detroit, MI, Washington, DC, or Remote
 
