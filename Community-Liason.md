@@ -11,3 +11,7 @@
 [FILLED] [Community Liaison [Red Team Leader]](/Community-Liaison-Red-Leader.md)
 
 [Community Liaison [Blue Team Leader]](/Community-Liaison-Blue-Leader.md)
+
+### Community Leader - Principal Liaison Roles
+
+[FILLED] [Community Leader & Principal Liaison](/Community-Leader.md)
