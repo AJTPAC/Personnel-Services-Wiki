@@ -8,7 +8,7 @@
 
 ### Senior Community Liaison Roles
 
-[FILLED] [Community Liaison [Red Team Leader]](/Community-Liaison-Red-Leader.md)
+[Community Liaison [Red Team Leader]](/Community-Liaison-Red-Leader.md)
 
 [Community Liaison [Blue Team Leader]](/Community-Liaison-Blue-Leader.md)
 
