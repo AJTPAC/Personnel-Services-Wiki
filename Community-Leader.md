@@ -3,7 +3,7 @@
 **Location:** Remote
 
 **Position Overview:**
-The Community Leader will be responsible for serving as the primary administrator of the community and its environment and inner-workings. This role requires a strategic and empathetic leader with a passion for political advocacy, excellent organizational skills, and a commitment to fostering a positive and inclusive community.
+The Community Leader will be responsible for serving as the Principal Liaison and primary administrator of the community and its environment and inner-workings. This role requires a strategic and empathetic leader with a passion for political advocacy, excellent organizational skills, and a commitment to fostering a positive and inclusive community.
 
 ### Key Responsibilities:
 - **Community Administration:** Oversee the daily operations and administration of the community, ensuring a well-organized and smoothly functioning environment.
