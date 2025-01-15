@@ -1,4 +1,4 @@
-# **Community Leader**
+# **Principal Liaison & Community Leader**
 
 **Location:** Remote
 
