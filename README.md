@@ -1,5 +1,4 @@
 # Personnel-Services-Wiki
-[[TOC]]
 
 ## Strategic Divisions
 
@@ -37,6 +36,7 @@
 
 [Director of Message Crafting](/Campaign/Director-Message-Crafting.md)
 
+[Communications Director for Fundraising](/Campaign/Communications-Director-Fundraising.md)
  
 [Director of Social Media Strategy](/Campaign/Director-Social-Media.md)
 
@@ -102,6 +102,12 @@
 
 #### Finance Management
 
+[Director of Accounting](/Admin/Finance/Director-Accounting.md)
+
+[Director of Budget Management](/Admin/Finance/Director-Budget-Management.md)
+
+[Director of Fundraising](/Admin/Finance/Director-Fundraising.md)
+
 #### Information Technology Services
 
 ### Risk Management Division
@@ -111,3 +117,21 @@
 #### Legal Services
 
 #### Operational Security & Safety
+
+### Office of the Treasury
+
+[Treasurer & President](/Treasury/Treasurer.md)
+
+[Deputy Treasurer & Vice-President](/Treasury/Deputy-Director.md)
+
+[Principal Chief of Staff & Director of Portfolio Management](/Treasury/Chief-of-Staff-Treasurer.md)
+
+[Senior Chief of Staff & Compliance Officer](/Treasury/Chief-of-Staff-Deputy-Treasurer.md)
+
+[Deputy Chief of Staff for Activism]()
+
+[Deputy Chief of Staff for Campaign Communications]()
+
+[Deputy Chief of Staff for Fundraising](/Treasury/Deputy-Chief-of-Staff-Fundraising.md)
+
+[Deputy Chief of Staff for Outreach]()
