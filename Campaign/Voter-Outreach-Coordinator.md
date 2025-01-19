@@ -1,5 +1,3 @@
----
-
 # **Voter Outreach Coordinators**
 
 **Location:** Los Angeles, CA, New York, NY, Dallas, TX, Detroit, MI, Washington, DC, Chicago, IL, Atlanta, GA, Boston, MA, Minneapolis, MN, San Francisco, CA, Seattle, WA, Orlando, FL, Philadelphia, PA, or Remote - US Other
