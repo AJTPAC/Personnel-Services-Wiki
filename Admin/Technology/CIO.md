@@ -38,9 +38,12 @@ We are seeking an experienced and visionary Director of Information Systems & Ch
 ### About the PAC
 
 #### Our Mission
-To urgently bring tangible and just solutions for our collective
-Our vision is To refresh the government and build a just society in a better world.
+To urgently bring tangible and just solutions for our collective.
 
+#### The Vision
+To refresh the government and build a just society in a better world.
+
+#### Who We Are
 To voters across the political spectrum, A Just This is the Community, Movement, and Political Action Committee that delivers bold and new solutions that work for everyone.
 
 Created by fresh faces and new generations, and we know how to use the systems of oppression against the oppressors to make our voices heard.
