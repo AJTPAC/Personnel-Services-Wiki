@@ -46,7 +46,7 @@ To refresh the government and build a just society in a better world.
 #### Who We Are
 To voters across the political spectrum, A Just This is the Community, Movement, and Political Action Committee that delivers bold and new solutions that work for everyone.
 
-Created by fresh faces and new generations, and we know how to use the systems of oppression against the oppressors to make our voices heard.
+Created by fresh faces and new generations, we know how to use the systems of oppression against the oppressors to make our voices heard.
 
 Unlike establishment politicians who use divisive party-line politics to cling to power, we offer voters unity and consensus with solutions that solve problems affecting everyone, resulting in a fair, a balanced, and a just society.
 
