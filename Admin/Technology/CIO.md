@@ -1,8 +1,4 @@
-Sure! Here's the updated job description for the Director of Information Systems & Chief Information Officer (CIO) position at "A Just This," with the "About the PAC" section added at the bottom:
-
----
-
-### **Director of Information Systems & Chief Information Officer (CIO)**
+# **Director of Information Systems & Chief Information Officer (CIO)**
 
 **Location:** Los Angeles, CA; New York, NY; Washington, DC; Dallas, TX; Detroit, MI; Atlanta, GA; Denver, CO; Seattle, WA; San Francisco, CA; Chicago, IL; or Remote
 
@@ -53,5 +49,3 @@ Unlike establishment politicians who use divisive party-line politics to cling t
 
 
 ---
-
-Let me know if you need any further adjustments or details!
